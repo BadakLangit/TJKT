@@ -203,13 +203,13 @@ body {
   max-width: 30rem;
   margin: auto;
   font-weight: 100;
-  font-size: 2rem;
+  font-size: 1.4rem;
   line-height: 1.6;
 }
 
 .contact .row {
   display: flex;
-  margin-top: 1.4rem;
+  margin-top: 2rem;
   background-color: #222;
 }
 
